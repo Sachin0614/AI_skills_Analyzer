@@ -1,0 +1,19 @@
+tensorflow
+deep learning
+communication
+git
+computer vision
+aws
+artificial intelligence
+docker
+fastapi
+langchain
+llm
+pandas
+numpy
+rag
+sql
+github
+nlp
+pytorch
+machine learning

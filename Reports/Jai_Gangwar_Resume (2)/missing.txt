@@ -1,0 +1,14 @@
+langchain
+rag
+computer vision
+llm
+nlp
+tensorflow
+pytorch
+deep learning
+aws
+communication
+artificial intelligence
+docker
+machine learning
+fastapi

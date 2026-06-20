@@ -1,0 +1,5 @@
+communication
+sql
+machine learning
+aws
+docker

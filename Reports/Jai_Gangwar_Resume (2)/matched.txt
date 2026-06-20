@@ -1,0 +1,6 @@
+git
+sql
+github
+pandas
+python
+numpy

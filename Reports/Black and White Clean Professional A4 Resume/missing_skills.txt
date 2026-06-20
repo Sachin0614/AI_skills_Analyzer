@@ -1,0 +1,7 @@
+communication
+javascript
+sql
+machine learning
+git
+aws
+docker

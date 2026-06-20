@@ -1,0 +1,6 @@
+streamlit
+pandas
+pypdf
+sentence-transformers
+plotly
+torch
